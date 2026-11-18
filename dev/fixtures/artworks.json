@@ -1,0 +1,344 @@
+{
+  "_fixture": true,
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.641434,
+          35.54195
+        ]
+      },
+      "properties": {
+        "id": "101",
+        "field_23": "事前",
+        "field_24": null,
+        "field_25": "4601",
+        "Message": "ひなん場所をたしかめよう",
+        "Body": "アピタテラスのまわりは川に近いので、ひなんする場所を家族でたしかめておきたいです。",
+        "place": "apita",
+        "collage": null,
+        "Mabling": null,
+        "creationDate": "2026-11-27",
+        "images": [
+          "images/mock-01.svg"
+        ],
+        "status": "approved"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.641434,
+          35.54195
+        ]
+      },
+      "properties": {
+        "id": "102",
+        "field_23": "災害時",
+        "field_24": "洪水（外水氾濫）",
+        "field_25": "4612",
+        "Message": "高いところへいそいで",
+        "Body": "水があふれたら、建物の上の階へにげることを表しました。",
+        "place": "apita",
+        "collage": null,
+        "Mabling": null,
+        "creationDate": "2026-11-27",
+        "images": [
+          "images/mock-02.svg"
+        ],
+        "status": "approved"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.641434,
+          35.54195
+        ]
+      },
+      "properties": {
+        "id": "103",
+        "field_23": "復旧時",
+        "field_24": null,
+        "field_25": "4627",
+        "Message": "みんなでかたづけ",
+        "Body": "水がひいたあと、近所の人と協力してかたづける様子です。",
+        "place": "apita",
+        "collage": null,
+        "Mabling": null,
+        "creationDate": "2026-11-27",
+        "images": [
+          "images/mock-03.svg"
+        ],
+        "status": "approved"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.636642,
+          35.536551
+        ]
+      },
+      "properties": {
+        "id": "104",
+        "field_23": "災害時",
+        "field_24": "地震の揺れ（震度）",
+        "field_25": "4603",
+        "Message": "駅でゆれたら",
+        "Body": "駅にいるときに地震がきたら、頭を守ってその場でしゃがみます。",
+        "place": "shintsunashima",
+        "collage": null,
+        "Mabling": null,
+        "creationDate": "2026-11-27",
+        "images": [
+          "images/mock-04.svg"
+        ],
+        "status": "approved"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.636642,
+          35.536551
+        ]
+      },
+      "properties": {
+        "id": "105",
+        "field_23": "事前",
+        "field_24": "内水氾濫",
+        "field_25": "4618",
+        "Message": "大雨の日に川の水があふれそうになったら、まよわずに高いところへにげて、家族みんなで声をかけあいながら安全な場所で待とう",
+        "Body": "わたしは、大雨がふったときに鶴見川の水があふれると、このあたりは2階くらいまで水につかるかもしれないことを、ハザードマップを読んで知りました。\nだから、雨がつよくなる前に、家族で「どこへにげるか」「だれに連絡するか」を話し合っておくことが大切だと思いました。\n作品の青いもようは、川の水がまちに広がっていくようすを表しています。上にはった足あとのスタンプは、高いところへ向かって歩いていく人たちです。\nとちゅうで小さい子やお年よりがいたら、声をかけていっしょににげてほしいという気持ちをこめて、手をつなぐスタンプもはりました。\nこの作品を見た人が、自分の家のまわりのハザードマップを一度見てみようと思ってくれたらうれしいです。\n（テスト用の長い本文です。改行や長い文章で表示がくずれないかを確かめるために使います。）",
+        "place": "shintsunashima",
+        "collage": null,
+        "Mabling": null,
+        "creationDate": "2026-11-27",
+        "images": [
+          "images/mock-05.svg"
+        ],
+        "status": "approved"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.634018,
+          35.546082
+        ]
+      },
+      "properties": {
+        "id": "106",
+        "field_23": "事前",
+        "field_24": null,
+        "field_25": "4605",
+        "Message": "非常持ち出しぶくろ",
+        "Body": "団地の階段は停電で暗くなるので、ライトを入れておきます。",
+        "place": "conforte",
+        "collage": null,
+        "Mabling": null,
+        "creationDate": "2026-11-27",
+        "images": [
+          "images/mock-06.svg"
+        ],
+        "status": "approved"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.642441,
+          35.548008
+        ]
+      },
+      "properties": {
+        "id": "107",
+        "field_23": "災害時",
+        "field_24": "土砂災害（急傾斜地の崩壊）",
+        "field_25": "4609",
+        "Message": "がけからはなれる",
+        "Body": "雨がつよいときは、がけの近くを通らないようにします。",
+        "place": "hiyoshinooka",
+        "collage": null,
+        "Mabling": null,
+        "creationDate": "2026-11-27",
+        "images": [
+          "images/mock-07.svg"
+        ],
+        "status": "approved"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.642441,
+          35.548008
+        ]
+      },
+      "properties": {
+        "id": "108",
+        "field_23": "復旧時",
+        "field_24": "土砂災害{どしゃさいがい}（急傾斜地{きゅうけいしゃち}の崩壊{ほうかい}）",
+        "field_25": "4633",
+        "Message": "公園でたすけあい",
+        "Body": "日吉の丘の公園に集まって、水や食べ物を分け合います。",
+        "place": "hiyoshinooka",
+        "collage": null,
+        "Mabling": null,
+        "creationDate": "2026-11-27",
+        "images": [
+          "images/mock-08.svg"
+        ],
+        "status": "approved"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.65348008,
+          35.53960528
+        ]
+      },
+      "properties": {
+        "id": "109",
+        "field_23": "事前",
+        "field_24": "洪水（外水氾濫）, 内水氾濫",
+        "field_25": "4621",
+        "Message": "ポンプ場のひみつ",
+        "Body": "ポンプ場がまちの水を川へ出してくれていることを知りました。",
+        "place": "pump",
+        "collage": null,
+        "Mabling": null,
+        "creationDate": "2026-11-27",
+        "images": [
+          "images/mock-09.svg"
+        ],
+        "status": "approved"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6475,
+          35.5445
+        ]
+      },
+      "properties": {
+        "id": "110",
+        "field_23": "災害時",
+        "field_24": null,
+        "field_25": "4607",
+        "Message": "通学路のマンホール",
+        "Body": "大雨のときは、マンホールから水があふれることがあるので近づきません。",
+        "place": "other",
+        "collage": null,
+        "Mabling": null,
+        "creationDate": "2026-11-27",
+        "images": [
+          "images/mock-10.svg"
+        ],
+        "status": "approved"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.629,
+          35.5385
+        ]
+      },
+      "properties": {
+        "id": "111",
+        "field_23": "事前",
+        "field_24": "高潮",
+        "field_25": "4614",
+        "Message": "おじいちゃんの家",
+        "Body": "おじいちゃんの家の近くの、にげる道を地図で調べました。",
+        "place": "other",
+        "collage": null,
+        "Mabling": null,
+        "creationDate": "2026-11-27",
+        "images": [
+          "images/mock-11.svg"
+        ],
+        "status": "approved"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.655,
+          35.558
+        ]
+      },
+      "properties": {
+        "id": "112",
+        "field_23": "復旧時",
+        "field_24": null,
+        "field_25": "4630",
+        "Message": "学校にあつまる",
+        "Body": "学校がひなん所になったとき、自分にできることを考えました。",
+        "place": "other",
+        "collage": null,
+        "Mabling": null,
+        "creationDate": "2026-11-27",
+        "images": [
+          "images/mock-12.svg"
+        ],
+        "status": "approved"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6212,
+          35.5262
+        ]
+      },
+      "properties": {
+        "id": "113",
+        "field_23": "災害時",
+        "field_24": null,
+        "field_25": "4640",
+        "Message": "まちのはしっこ",
+        "Body": "地図のはしの方にも、低い土地があることに気づきました。",
+        "place": "other",
+        "collage": null,
+        "Mabling": null,
+        "creationDate": "2026-11-27",
+        "images": [
+          "images/mock-13.svg"
+        ],
+        "status": "approved"
+      }
+    }
+  ]
+}
